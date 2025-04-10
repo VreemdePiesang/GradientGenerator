@@ -16,7 +16,7 @@ A sleek, modern tool for creating beautiful gradient backgrounds for your websit
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Gradient Background Generator](https://your-username.github.io/gradient-generator)
+Check out the live demo: [Gradient Background Generator](https://vreemdepiesang.github.io/GradientGenerator/)
 
 ## 🛠️ Technologies Used
 
@@ -28,12 +28,12 @@ Check out the live demo: [Gradient Background Generator](https://your-username.g
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/gradient-generator.git
+   git clone https://vreemdepiesang.github.io/GradientGenerator.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd gradient-generator
+   cd GradientGenerator
    ```
 
 3. Open `index.html` in your browser or use a local development server.
